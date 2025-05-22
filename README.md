@@ -1,4 +1,4 @@
-# Customer_Churn-Analysis
+# Customer_Churn-Analysis using Python
 
 ## Project Description
 This repository contains the Exploratory Data analysis and visualization of various charts and graphs created during EDA. This exploratory data analysis (EDA) investigates patterns and drivers of customer churn in a telecom dataset, focusing on service usage, customer demographics, and billing information. The visual and statistical insights aim to support strategic retention decisions.
